@@ -2,3 +2,5 @@ This is a sample git example
 
 
 Adding a new line for this
+
+git add
